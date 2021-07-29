@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrjAdo.NetEg", "PrjAdo.NetEg\PrjAdo.NetEg.csproj", "{693BB7B1-B056-4A3C-B1A8-B0BCCBD88AEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaseStudy", "CaseStudy\CaseStudy.csproj", "{BCCAF8DB-55A3-4938-8E89-4CBB4B6F366A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693BB7B1-B056-4A3C-B1A8-B0BCCBD88AEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693BB7B1-B056-4A3C-B1A8-B0BCCBD88AEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693BB7B1-B056-4A3C-B1A8-B0BCCBD88AEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693BB7B1-B056-4A3C-B1A8-B0BCCBD88AEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCCAF8DB-55A3-4938-8E89-4CBB4B6F366A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCCAF8DB-55A3-4938-8E89-4CBB4B6F366A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCCAF8DB-55A3-4938-8E89-4CBB4B6F366A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCCAF8DB-55A3-4938-8E89-4CBB4B6F366A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09C277B1-89DF-44FA-98EB-EDC2C5072FEF}
+	EndGlobalSection
+EndGlobal
